@@ -1,0 +1,19 @@
+div.amount {
+  //position: absolute;
+  bottom: 0px;
+  height: 9rem;
+  left: 0px;
+  right: 0px;
+  overflow: hidden;
+  color: #bb5432;
+  padding: 3rem;
+  p.amount-value {
+    font-weight: 700;
+    font-size: 2rem;
+    padding: 0.5rem;
+  }
+
+  p.amount-currency {
+    font-size: 1.5rem;
+  }
+}

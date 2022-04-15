@@ -1,0 +1,15 @@
+body {
+  margin: auto;
+  text-align: center;
+  border: #f1c5b6 solid 15px;
+}
+main {
+  text-align: left;
+  max-height: 60vh;
+  overflow-y: auto;
+  h3 {
+    padding: 1.5em;
+    color: #bb5432;
+    font-weight: 700;
+  }
+}

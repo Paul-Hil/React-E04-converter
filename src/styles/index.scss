@@ -1,0 +1,13 @@
+@use 'reset';
+@use 'vars';
+
+  // or you can import your own font
+  @font-face {
+    font-family: 'Spartan';
+    src: url('../assets/fonts/Spartan-VariableFont_wght.ttf');
+  }
+
+  body {
+    font-family: 'Spartan', sans-serif;
+  }
+
